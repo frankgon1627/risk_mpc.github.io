@@ -1,6 +1,6 @@
 # Risk-Adverse MPC
 
-This is the repository that contains source code for the [Risk-Adverse MPC website](https://nerfies.github.io).
+This is the repository that contains source code for the [Risk-Adverse MPC website](https://frankgon1627.github.io/risk_mpc.github.io/).
 
 If you find Risk-MPC useful for your work please cite:
 ```
